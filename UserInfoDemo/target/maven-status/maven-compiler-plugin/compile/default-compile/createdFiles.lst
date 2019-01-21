@@ -1,0 +1,5 @@
+com\userInfoInterview\controller\UserController.class
+com\userInfoInterview\CrudApp.class
+com\userInfoInterview\repository\UserRepository.class
+com\userInfoInterview\service\UserService.class
+com\userInfoInterview\model\User.class
